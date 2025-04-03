@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Button } from '@/components/ui/button';
 import { Avatar, AvatarFallback, AvatarImage } from '@/components/ui/avatar';
 import { 
+// Enhancement - 2025-04-03
   DropdownMenu, 
   DropdownMenuContent, 
   DropdownMenuItem, 

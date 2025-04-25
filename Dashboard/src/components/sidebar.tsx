@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Link, useLocation, useNavigate} from 'react-router-dom';
 import { cn } from '@/lib/utils';
 import { 
+// Enhancement - 2025-04-25
   BarChart3, 
   PieChart, 
   TrendingUp, 
